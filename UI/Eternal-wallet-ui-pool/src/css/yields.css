@@ -1,0 +1,22 @@
+.currency-symbol{
+    font-size: 45px;
+    float: left;
+}
+
+.currency-amount-yield{
+    float: right;
+    font-size: 45px;
+}
+
+.hr-sd{
+    clear:both;
+    display: block;
+}
+
+.currency-desc{
+    float: right;   
+}
+
+.card{
+    background-color: #DCDDFF;
+}
